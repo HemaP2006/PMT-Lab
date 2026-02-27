@@ -1,30 +1,30 @@
 # INTRODUCTION TO  GITHUB
   ## About Github:
-    >Github is a cloud-based platform where you can store,share and work together with others to write   
+    * Github is a cloud-based platform where you can store,share and work together with others to write   
      code.
-    >Collaborative working,one of Github's fundamental features is made possible by the open-source       
+    * Collaborative working,one of Github's fundamental features is made possible by the open-source       
      software,Git,upon which Github is built.
   ## About Git:
-    >Git is a version control system that intelligently tracks changes in files.
-    >Git is particularly useful when you and a group of people are all making changes to the same files   
-     at the same time.
+    * Git is a version control system that intelligently tracks changes in files.
+    * Git is particularly useful when you and a group of people are all making changes to the same   
+      files at the same time.
 
 # GITHUB SIDEBAR MENU
   ## 1.HOME:
-    >Shows activity from people you follow.
-    >Recent repositories,notification and updates.
+    * Shows activity from people you follow.
+    * Recent repositories,notification and updates.
   ## 2.ISSUES:
-    >Used to report and track problems or tasks in a project.
-    >Ex:New found in code,Bug found in code,Task to compute.
+    * Used to report and track problems or tasks in a project.
+    * Ex:New found in code,Bug found in code,Task to compute.
   ## 3.PULL REQUESTS:
-    >Used to suggest changes to a project.
-    >Process:
-      *You edit code.
-      *You request the owner to review.
-      *They approve and merge.
-    >It's how collaboration happens in Github.
+    * Used to suggest changes to a project.
+    * Process:
+      ** You edit code.
+      ** You request the owner to review.
+      ** They approve and merge.
+    * It's how collaboration happens in Github.
   ## 4.REPOSITORIES:
-    >Where your projects are stored
+    * Where your projects are stored
     >Contains: *Code files.
                *README.
                *Images.
