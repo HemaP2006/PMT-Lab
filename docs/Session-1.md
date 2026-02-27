@@ -25,48 +25,48 @@
     * It's how collaboration happens in Github.
   ## 4.REPOSITORIES:
     * Where your projects are stored
-    >Contains: *Code files.
-               *README.
-               *Images.
-               *Documentation.
-    >A repository=one project folder.
+    * Contains: - Code files.
+                - README.
+                - Images.
+                - Documentation.
+    * A repository=one project folder.
   ## 5.Projects:
-    >Used for managing tasks visually.
-    >Helps organize large projects.
+    * Used for managing tasks visually.
+    * Helps organize large projects.
   ## 6.Discussion:
-    >Used for asking questions and general conversation about a project.
-    >Not for bugs.
-    >More likely a community chat.
+    * Used for asking questions and general conversation about a project.
+    * Not for bugs.
+    * More likely a community chat.
   ## 7.Codespace:
-    >Cloud-bases coding environment.
-    >We can: *Write code.
-             *Run code.
-             *Test Projects.
+    * Cloud-bases coding environment.
+    * We can: - Write code.
+              - Run code.
+              - Test Projects.
   ## 8.COPILOT:
-    >AI coding assistant by GITHUB.
-    >It suggests: *Code.
-                  *Functions.
-                  *Logic(while wc type).
+    * AI coding assistant by GITHUB.
+    * It suggests: - Code.
+                   - Functions.
+                   - Logic(while wc type).
   ## 9.EXPLORE:
-    >Discover: *Popular repositories.
-               *Trending Projects.
-               *Open-Source contributions.
-    >Good for learning new things.'
+    * Discover: - Popular repositories.
+               - Trending Projects.
+               - Open-Source contributions.
+    * Good for learning new things.'
   ## 10.MARKET PLACE:
-    >Apps and tools you can connect with Github.
-    >Examples: *CI/CD tools.
-               *Security tools.
-               *Project Management apps.
+    * Apps and tools you can connect with Github.
+    * Examples: - CI/CD tools.
+                - Security tools.
+                - Project Management apps.
   ## 11.MCP Registory:
-    >Used for managing model context Protocol integration.
-    >Mostly used by developers working will AI integrations.
+    * Used for managing model context Protocol integration.
+    * Mostly used by developers working will AI integrations.
 
-        BASIC GIT COMMANDS:
-          *git init   - Start repository.
-          *git status - Check Project Status.
-          *git add    - Add files to staging.
-          *git push   - upload to Github.
-          *git pull   - Download from Github.
-          *git clone  - Copy repository.
+  # BASIC GIT COMMANDS:
+          * git init   - Start repository.
+          * git status - Check Project Status.
+          * git add    - Add files to staging.
+          * git push   - upload to Github.
+          * git pull   - Download from Github.
+          * git clone  - Copy repository.
           
         
