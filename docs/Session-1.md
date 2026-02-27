@@ -19,9 +19,9 @@
   ## 3.PULL REQUESTS:
     * Used to suggest changes to a project.
     * Process:
-      ** You edit code.
-      ** You request the owner to review.
-      ** They approve and merge.
+       You edit code.
+       You request the owner to review.
+       They approve and merge.
     * It's how collaboration happens in Github.
   ## 4.REPOSITORIES:
     * Where your projects are stored
