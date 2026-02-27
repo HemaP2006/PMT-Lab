@@ -1,5 +1,5 @@
 #INTRODUCTION TO  GITHUB
-  About Github:
+  ##About Github:
     >Github is a cloud-based platform where you can store,share and work together with others to write   
      code.
     >Collaborative working,one of Github's fundamental features is made possible by the open-source       
