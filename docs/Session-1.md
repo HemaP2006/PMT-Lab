@@ -1,4 +1,4 @@
-INTRODUCTION TO  GITHUB
+#INTRODUCTION TO  GITHUB
   About Github:
     >Github is a cloud-based platform where you can store,share and work together with others to write   
      code.
